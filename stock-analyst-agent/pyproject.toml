@@ -1,0 +1,19 @@
+[project]
+name = "stock-analyst-agent"
+version = "0.1.0"
+description = "AI-powered US Stock Portfolio Analyst Agent built with Streamlit and Groq"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "streamlit>=1.36.0",
+    "pandas>=2.2.0",
+    "numpy>=1.26.0",
+    "yfinance>=0.2.40",
+    "plotly>=5.22.0",
+    "groq>=0.9.0",
+    "python-dotenv>=1.0.1",
+    "scipy>=1.13.0",
+]
+
+[tool.uv]
+package = false
