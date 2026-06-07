@@ -1,7 +1,8 @@
 # Healthcare Data Pipeline
 
 End-to-end data engineering and analytics pipeline for a healthcare dataset.  
-**Stack:** Python · PostgreSQL · SQL · Tableau Public
+**Stack:** Python · PostgreSQL · SQL · Tableau Public  
+**Live Dashboard:** [Healthcare Business Dashboard](https://public.tableau.com/app/profile/onkar.kalyadi1733/viz/HealthCareBusinessDashboard/HealthcareBusinessDashboard)
 
 ---
 
